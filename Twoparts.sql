@@ -1,4 +1,4 @@
-PART 2!!!! DATA ENGINEERRING!!!!! 
+PART 1/2!!!! DATA MODELING/ DATA ENGINEERRING!!!!! 
 
 -- Drop Tables if Existing
 
@@ -14,9 +14,6 @@ DROP TABLE IF EXISTS salaries;
 
 DROP TABLE IF EXISTS titles;
 
-
-
--- Exported from QuickDBD: Specifying Data Types, Primary Keys & Foreign Keys 
 
 -- Import CSV Files Into Corresponding SQL Table
 
